@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3_K158DZ", "ZH3_K158DZ\ZH3_K158DZ.csproj", "{F592AB83-1D61-4459-B867-4DD81CC7081C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_K158DZ", "WebApplication_K158DZ\WebApplication_K158DZ.csproj", "{0FF244C7-4FF0-433E-9F29-96925AED0BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F592AB83-1D61-4459-B867-4DD81CC7081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F592AB83-1D61-4459-B867-4DD81CC7081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F592AB83-1D61-4459-B867-4DD81CC7081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F592AB83-1D61-4459-B867-4DD81CC7081C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF244C7-4FF0-433E-9F29-96925AED0BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF244C7-4FF0-433E-9F29-96925AED0BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF244C7-4FF0-433E-9F29-96925AED0BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF244C7-4FF0-433E-9F29-96925AED0BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BEC275F-E0A9-496F-AD49-15389D73AF56}
+	EndGlobalSection
+EndGlobal
